@@ -1,7 +1,7 @@
-# Gestión de Odontogramas - Proyecto Final de Curso
+# Gestión de Odontogramas
 
 
-Este repositorio contiene el código fuente y la documentación del proyecto final del curso "Taller de Proyectos 2". El proyecto se centra en el desarrollo de una aplicación web para la gestión de odontogramas en una clínica dental, utilizando tecnologías modernas para garantizar un rendimiento óptimo y una experiencia de usuario atractiva.
+Este repositorio contiene el código fuente y la documentación del proyecto final del un curso universitario  "Taller de Proyectos 2". El proyecto se centra en el desarrollo de una aplicación web para la gestión de odontogramas en una clínica dental, utilizando tecnologías modernas para garantizar un rendimiento óptimo y una experiencia de usuario atractiva.
 
 ## Descripción del Proyecto
 
